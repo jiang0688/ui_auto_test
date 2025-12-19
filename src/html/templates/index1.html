@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Log Viewer</title>
+    <style>
+        #log-content {
+            white-space: pre;
+            font-family: monospace;
+            border: 1px solid #ccc;
+            padding: 10px;
+            height: 400px;
+            overflow-y: scroll;
+        }
+    </style>
+</head>
+<body>
+    <h1>Log Viewer</h1>
+    <pre id="log-content"></pre>
+    <script>
+        const logContent = document.getElementById('log-content');
+        const logStream = new EventSource('/log');
+
+        logStream.onmessage = function(event) {
+            console.log('Received log:', event.data); // 在控制台打印接收到的日志
+            logContent.textContent += event.data + '\n';
+            logContent.scrollTop = logContent.scrollHeight; // 滚动到最底部
+        };
+
+        logStream.onerror = function(event) {
+            console.error('EventSource failed:', event);
+        };
+
+        logStream.onopen = function(event) {
+            console.log('EventSource opened:', event);
+        };
+    </script>
+</body>
+</html>

@@ -1,0 +1,64 @@
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9999
+ * Running on http://192.168.70.52:9999
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [26/Aug/2025 14:47:31] "GET / HTTP/1.1" 200 -
+Version input: 1.94
+Download links input: 11111111111111111233333333333333333333
+Starting external script: e:\A1myProject\python\UiAuto\ui_auto_test\src\html\test_html.py
+127.0.0.1 - - [26/Aug/2025 14:47:37] "POST / HTTP/1.1" 200 -
+Starting the external script...
+∞Ê±æ∫≈: 1.94
+œ¬‘ÿ ‰»Î: 11111111111111111233333333333333333333
+Processing step 1
+Processing step 2
+Processing step 3
+Processing step 4
+Processing step 5
+External script completed.
+127.0.0.1 - - [26/Aug/2025 14:47:42] "GET /logs HTTP/1.1" 200 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9999
+ * Running on http://192.168.70.52:9999
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [26/Aug/2025 14:51:10] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2025 14:51:10] "GET /logs HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2025 14:51:10] "GET /logs HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2025 14:51:10] "GET /logs HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2025 14:51:10] "GET /logs HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2025 14:51:10] "GET /logs HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2025 14:51:10] "GET /logs HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2025 14:51:10] "GET /logs HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2025 14:51:10] "GET /logs HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2025 14:51:10] "GET /logs HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2025 14:51:10] "GET /logs HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2025 14:51:10] "GET /logs HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2025 14:51:10] "GET /logs HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2025 14:51:10] "GET /logs HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2025 14:51:10] "GET /logs HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2025 14:51:10] "GET /logs HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2025 14:51:10] "GET /logs HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2025 14:51:10] "GET /logs HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2025 14:51:10] "GET /logs HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2025 14:51:10] "GET /logs HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2025 14:51:10] "GET /logs HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2025 14:51:10] "GET /logs HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2025 14:51:10] "GET /logs HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2025 14:51:10] "GET /logs HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2025 14:51:10] "GET /logs HTTP/1.1" 200 -
+Version input: 1.94
+Download links input: 1∑¥∑¥∏¥∏¥∑≥∑≥∑≥∑≥∑≥∑≥∑≥∑≥∑≥∑≥∑≥∑≥∑≥∑≥∑≥
+Starting external script: e:\A1myProject\python\UiAuto\ui_auto_test\src\html\test_html.py
+127.0.0.1 - - [26/Aug/2025 14:51:23] "POST / HTTP/1.1" 200 -
+Starting the external script...
+∞Ê±æ∫≈: 1.94
+œ¬‘ÿ ‰»Î: 1∑¥∑¥∏¥∏¥∑≥∑≥∑≥∑≥∑≥∑≥∑≥∑≥∑≥∑≥∑≥∑≥∑≥∑≥∑≥
+Processing step 1
+Processing step 2
+Processing step 3
+Processing step 4
+Processing step 5
+External script completed.
+127.0.0.1 - - [26/Aug/2025 14:51:28] "GET /logs HTTP/1.1" 200 -
