@@ -2,7 +2,7 @@
 基于airtest、cv2/ocr、pytest的ui自动化
 ##  安装依赖,也可以安装最新版本  
 ```bash
-    pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 ##  目录结构
 - config：配置目录，读取run_fenbao_test.py的version参数并保存，用于创建测试目录
@@ -19,4 +19,4 @@
 ###  1.在test目录以版本号命名创建文件夹，也可以在run_fenbao_test.py中输入版本文件夹名称会自动创建  
 ###  2.将分包apk都在下载到刚刚创建的文件夹内  
 ###  3.然后执行run_fenbao_test.py
-![运行示例](https://github-production-user-asset-6210df.s3.amazonaws.com/110026361/528490973-c78c4663-d40c-4a62-a232-c546a4f892bd.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251219%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251219T071551Z&X-Amz-Expires=300&X-Amz-Signature=38b0798e799a64584fe16ac85619a0b1ffdc248ca0de820075d068968d5e76ac&X-Amz-SignedHeaders=host)    
+![运行示例](https://github.com/jiang0688/ui_auto_test/blob/main/20251219-152547.jpg)    
